@@ -1,5 +1,5 @@
 {
-  "name": "yushril",
+  "name": "maulidin",
   "version": "1.0.0",
   "description": "testing",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "cros": "^1.1.0",
+    "dotenv": "^17.2.2",
     "express": "^5.1.0",
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "sqlite3": "^5.1.7"
   }
 }
